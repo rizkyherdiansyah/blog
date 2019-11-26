@@ -79,7 +79,7 @@
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="#">
               <i class="fa fa-shield"></i> Lock Account</a>
-            <a class="dropdown-item" href="#">
+            <a class="dropdown-item" href="/logout.php">
               <i class="fa fa-lock"></i> Logout</a>
           </div>
         </li>
