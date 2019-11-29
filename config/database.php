@@ -1,7 +1,7 @@
 <?php
 class Database
 {
-    public $host = "localhost", $user = "root", $pass = 123, $db = "blog_ikoy";
+    public $host = "localhost", $user = "root", $pass = 123, $db = "blog-ikoy";
     public $koneksi;
     public function __construct()
     {
